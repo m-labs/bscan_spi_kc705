@@ -1,0 +1,8 @@
+run
+-ifn bscan_spi_kc705.prj
+-top top
+-ifmt MIXED
+-opt_mode SPEED
+-opt_level 2
+-ofn bscan_spi_kc705.ngc
+-p xc7k325t-ffg900-2
